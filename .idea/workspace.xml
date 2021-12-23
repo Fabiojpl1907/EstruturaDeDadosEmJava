@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85340c61-9192-4fc1-aaef-1fc8eb152e8c" name="Changes" comment="Fila - Inicial - Classe e Metodos" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22KCDEF8YeImWyzTy6JH3pYnn7I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/fila/c/generics" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/fila/c/generics" />
+      <recent name="$PROJECT_DIR$/src/main/java/projeto" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pilha.b.operarpilha" />
+      <recent name="pilha.a.implantacaopilha" />
+      <recent name="pilha" />
+      <recent name="pilha.a.pilha" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fila.c.generics" />
+      <recent name="projeto.genericsno" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainFilaGenerics">
+    <configuration name="MainFila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fila.b.operarfila.MainFila" />
+      <module name="EstruturaDadosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fila.b.operarfila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFilaGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fila.c.generics.MainFilaGenerics" />
+      <module name="EstruturaDadosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fila.c.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introducao.b.projetono.projetono.MainNo" />
+      <module name="EstruturaDadosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introducao.b.projetono.projetono.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainNoGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introducao.c.genericsno.genericsno.MainNoGenerics" />
+      <module name="EstruturaDadosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introducao.c.genericsno.genericsno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pilha.b.operarpilha.MainPilha" />
+      <module name="EstruturaDadosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pilha.a.implantacaopilha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFilaGenerics" />
+        <item itemvalue="Application.MainFila" />
+        <item itemvalue="Application.MainPilha" />
+        <item itemvalue="Application.MainNoGenerics" />
+        <item itemvalue="Application.MainNo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85340c61-9192-4fc1-aaef-1fc8eb152e8c" name="Changes" comment="" />
+      <created>1639576770467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639576770467</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fila - Inicial - Classe e Metodos">
+      <created>1639692878032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639692878032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fila - Inicial - Classe e Metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fila - Inicial - Classe e Metodos" />
+  </component>
+</project>
